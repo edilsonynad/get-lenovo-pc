@@ -10,7 +10,7 @@ First clone this repository into your local machine (you must have [Nodejs](http
 git clone https://github.com/edilsonynad/get-lenovo-pc.git
 ```
 
-Use the package manager [npm](https://pip.pypa.io/en/stable/) to install the packages of the app.
+Use the package manager [npm](https://www.npmjs.com/) to install the packages of the app.
 
 ```bash
 cd /get-lenovo-pc
@@ -28,7 +28,7 @@ npm run start
 
 ## Usage
 
-Access the following route to have access to the swagger documentation for this app api.
+Access the following route to have access to the rest api.
 
 ```
 http://localhost:3000/lenovo-laptops
