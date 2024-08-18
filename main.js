@@ -86,7 +86,7 @@ app.get('/lenovo-laptops', async (req, res) => {
     res.json(laptops);
 });
 
-
+//Run the server
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
 });
